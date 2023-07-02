@@ -1,0 +1,16 @@
+{
+  "name": "hola_mundo",
+  "version": "1.0.0",
+  "description": "es el 15° intento para aprender js xd",
+  "main": "index.js",
+  "scripts": {
+    "inicio": "node index.js",
+    "saludar": "node hola_mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "proyct-115"
+  ],
+  "author": "wallace",
+  "license": "ISC"
+}
