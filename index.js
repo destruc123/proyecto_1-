@@ -1,8 +1,1 @@
-// es para despedir
-console.log("este es la enterada ala pagina webs");
-// es para despedir
-console.log("adios");
-// esto es un comentario
-/*es tambien 
-es un comentario pero 
-varias lineas*/
+console.log("Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo");
